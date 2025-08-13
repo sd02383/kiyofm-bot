@@ -6,3 +6,4 @@ python-telegram-bot[job-queue]>=20.0
 textblob>=0.18.0
 yfinance>=0.2.30
 numpy<2.0.0
+setuptools>=60.0.0
